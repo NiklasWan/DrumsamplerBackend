@@ -8,6 +8,6 @@ To start the application following steps need to be taken:
 - Clone the project
 - Open in Visual Studio Code and open the folder in the Remote-Containers extension
 - Open a terminal and type `cd src && export FLASK_APP=main && flask run -h localhost -p 8080`
-- Start the frontend application
+- Start the [frontend application](https://github.com/NiklasWan/DrumsamplerFrontend)
 
 Further information on the project can be found [here](TODO)
