@@ -10,4 +10,4 @@ To start the application following steps need to be taken:
 - Open a terminal and type `cd src && export FLASK_APP=main && python3 -m flask run -h localhost -p 8080`
 - Start the [frontend application](https://github.com/NiklasWan/DrumsamplerFrontend)
 
-Further information on the project can be found [here](TODO)
+Further information on the project can be found [here](https://creative-technologies.de/implementation-of-a-distributed-ai-driven-audio-sample-manager).
